@@ -1,0 +1,1 @@
+nome = str(input('\033[31mdigite seu nome: \033[31m'))

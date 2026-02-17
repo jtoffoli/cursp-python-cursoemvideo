@@ -1,0 +1,7 @@
+nome = str(input('Digite seu nome completo: ')).strip()
+print('seu nome em maiúsculo é: {}'.format(nome.upper()))
+print('seu nome em minúsculo é: {}'.format(nome.lower()))
+tamanho = nome.split()
+print('o tamanho do primeiro nome é: {}'. format(len(tamanho[0])))
+#print('o tamanho do nome semn espaços é: {}'.format(len(nome) - nome.count(' ')))
+print('o tamanho do nome semn espaços é: {}'.format(len(nome.replace(' ', ''))))

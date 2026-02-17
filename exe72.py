@@ -1,0 +1,5 @@
+tabela = ('flamengo','cruzeiro','bragantino','palmeiras','bahia','fluminense','atlético MG','botafogo','mirassol','corinthians','grêmio','ceará','vasco','são paulo','santos','vitória','internacinal','fortaleza','juventude','sport recife')
+print(f'Os 5 primeios colocados do brasileirão são: {tabela[:5]}')
+print(f'Os 4 últimos colocados são {tabela[len(tabela)-4:]}')
+print(f'A tabela em ordem alfabética é: {sorted(tabela)}')
+print(f'O corinthians está em {tabela.index('corinthians')+1}º posição')

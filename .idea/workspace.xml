@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62721716-eff2-4f4f-a79b-59eeadb6b709" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProjectcurso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe107/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe107/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe108/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe108/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe109/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe109/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe110/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe110/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe111/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe111/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe111/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe111/utilidadescev/dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe111/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe112/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe112/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe112/utilidadescev/dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe112/utilidadescev/moeda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe115/lib/arquivo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe115/lib/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe115/sistema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe54.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exe99.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wVDgCCjFXpwVU4XnwOCNNxuUsG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.add55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex76.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.exe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe103.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe104.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe113.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe114.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe48.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe49.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe56.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe57.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe58.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe59.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe60.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe61.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe62.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe63.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe64.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe65.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe66.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe68.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe69.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe70.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe71.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe73.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe74.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe75.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.exe76.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe78.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe79.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe80.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe81.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe82.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe83.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe84.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe85.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe86.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe87.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe88.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe89.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe90.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe91.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe92.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe93.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe94.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe95.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe96.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe97.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe98.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moeda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jtoff/PycharmProjects/PythonProjectcurso&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jtoff\PycharmProjects\PythonProjectcurso" />
+      <recent name="C:\Users\jtoff\PycharmProjects\PythonProjectcurso\exe111" />
+      <recent name="C:\Users\jtoff\PycharmProjects\PythonProjectcurso\exe109" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jtoff\PycharmProjects\PythonProjectcurso" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.exe5">
+    <configuration name="exe10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectcurso" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectcurso" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectcurso" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectcurso" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exe9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProjectcurso" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exe5" />
+        <item itemvalue="Python.exe9" />
+        <item itemvalue="Python.exe8" />
+        <item itemvalue="Python.exe7" />
+        <item itemvalue="Python.exe10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62721716-eff2-4f4f-a79b-59eeadb6b709" name="Changes" comment="" />
+      <created>1746117964423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746117964423</updated>
+      <workItem from="1746117964428" duration="1299000" />
+      <workItem from="1746197109258" duration="17334000" />
+      <workItem from="1747932925385" duration="7828000" />
+      <workItem from="1748104316158" duration="10322000" />
+      <workItem from="1748189247621" duration="1281000" />
+      <workItem from="1748191966066" duration="2035000" />
+      <workItem from="1748707856760" duration="5978000" />
+      <workItem from="1748766073409" duration="2209000" />
+      <workItem from="1748798499006" duration="8045000" />
+      <workItem from="1748881186615" duration="4843000" />
+      <workItem from="1749053309835" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe13.coverage" NAME="exe13 Coverage Results" MODIFIED="1748023013708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe16.coverage" NAME="exe16 Coverage Results" MODIFIED="1748105310553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe19.coverage" NAME="exe19 Coverage Results" MODIFIED="1748767536817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe10.coverage" NAME="exe10 Coverage Results" MODIFIED="1746377556618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe22.coverage" NAME="exe22 Coverage Results" MODIFIED="1748803677815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe01.coverage" NAME="exe01 Coverage Results" MODIFIED="1746203627092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe3.coverage" NAME="exe3 Coverage Results" MODIFIED="1746297928750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe7.coverage" NAME="exe7 Coverage Results" MODIFIED="1746376237094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe11.coverage" NAME="exe11 Coverage Results" MODIFIED="1747933890033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe25.coverage" NAME="exe25 Coverage Results" MODIFIED="1748805256554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe2.coverage" NAME="exe2 Coverage Results" MODIFIED="1746207414313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe5.coverage" NAME="exe5 Coverage Results" MODIFIED="1748799675560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe8.coverage" NAME="exe8 Coverage Results" MODIFIED="1746376722689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe20.coverage" NAME="exe20 Coverage Results" MODIFIED="1748806360406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe17.coverage" NAME="exe17 Coverage Results" MODIFIED="1748711106941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe14.coverage" NAME="exe14 Coverage Results" MODIFIED="1748102912351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe23.coverage" NAME="exe23 Coverage Results" MODIFIED="1748803531794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe1.coverage" NAME="exe1 Coverage Results" MODIFIED="1746296389344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe4.coverage" NAME="exe4 Coverage Results" MODIFIED="1746298082898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe18.coverage" NAME="exe18 Coverage Results" MODIFIED="1748712327130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe24.coverage" NAME="exe24 Coverage Results" MODIFIED="1748803829943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe6.coverage" NAME="exe6 Coverage Results" MODIFIED="1746299844755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe12.coverage" NAME="exe12 Coverage Results" MODIFIED="1748709482961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe15.coverage" NAME="exe15 Coverage Results" MODIFIED="1748103685321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe9.coverage" NAME="exe9 Coverage Results" MODIFIED="1746377342739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProjectcurso$exe21.coverage" NAME="exe21 Coverage Results" MODIFIED="1748801291126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
